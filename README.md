@@ -8,6 +8,92 @@ Resolucion de Tareas (Fund. Circuitos Electrónicos)
 5.	MARCO TEÓRICO (RESUMEN)
 6.	CONCLUSIONES
 7.	BIBLIOGRAFÍA
+	〖0,2〗^106 
+1. Exprese cada uno de los números siguientes en notación científica:
+(a) 3000 (b) 75,000 (c) 2,000,000
+2. Exprese cada número fraccionario en notación científica:
+(a) 1/500 (b) 1/2000 (c) 1/5,000,000
+3. Exprese cada uno de los números siguientes en notación científica:
+(a) 8400 (b) 99,000 (c)
+4. Exprese cada uno de los números siguientes en notación científica:
+(a) 0.0002 (b) 0.6 (c)
+5. Exprese cada uno de los números siguientes en notación científica:
+(a) (b) (c)
+6. Exprese cada uno de los números siguientes como un número decimal regular:
+(a) (b) (c)
+7. Exprese cada uno de los números siguientes como un número decimal regular:
+(a) (b) (c)
+8. Exprese cada número de los siguientes como un número decimal regular:
+(a) (b) (c)
+9. Sume los números siguientes:
+(a) (b)
+(c)
+10. Efectúe las siguientes sustracciones:
+(a) (b)
+(c)
+11. Realice las siguientes multiplicaciones:
+(a) (b)
+(c)
+12. Realice las siguientes divisiones:
+(a) (b)
+(c)
+SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+13. Exprese cada uno de los números siguientes en notación de ingeniería:
+(a) 89,000 (b) 450,000 (c) 12,040,000,000,000
+14. Exprese cada número en notación de ingeniería:
+(a) (b) (c)
+15. Exprese cada número en notación de ingeniería:
+(a) 0.000345 (b) 0.025 (c) 0.00000000129
+16. Exprese cada número en notación de ingeniería:
+(a) (b) (c)
+17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+(a) (b)
+(c)
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+(a) (b)
+(c) 100(55 * 10-3
+)
+(1.2 * 10-6
+)(1.2 * 10-6 (32 * 10 ) -3
+)(56 * 103
+)
+(1.25 * 106
+) + (250 * 103
+)
+(68 * 106) + (33 * 106 (2.5 * 10 ) -3
+) + (4.6 * 10-3
+)
+4.38 * 10-7 4.82 * 10-4 9.81 * 10-3
+1.333 * 109 7.32 * 107 2.35 * 105
+(4.2 * 108
+) , (2 * 10-5
+)
+(2.5 * 10-6
+) , (5.0 * 10-8 (1.0 * 10 ) 3
+) , (2.5 * 102
+)
+(2.2 * 10-9
+)(7 * 10-6
+)
+(1.2 * 1012)(3 * 102 (5 * 10 ) 3
+)(4 * 105
+)
+(1.5 * 10-12) - (8 * 10-13)
+(2.6 * 108
+) - (1.3 * 107 (3.2 * 10 ) 12) - (1.1 * 1012)
+(5.6 * 10-8
+) + (4.6 * 10-9
+)
+(5 * 103
+) + (8.5 * 10-1 (9.2 * 10 ) 6
+) + (3.4 * 107
+)
+4.0 * 10-12 8 * 10-9 4.5 * 10-6
+3.9 * 10-1 5.0 * 102 2.5 * 10-6
+1.0 * 101 5.4 * 10-9 2 * 105
+870 * 108 6800 * 10-6 32 * 103
+7.8 * 10-2
+0.2 * 106
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
